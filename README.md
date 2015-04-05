@@ -1,2 +1,2 @@
 # SeO2
-Automated Test Engine
+Automated Test Engine based on Selenium
